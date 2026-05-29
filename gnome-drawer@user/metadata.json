@@ -1,0 +1,9 @@
+{
+  "uuid": "gnome-drawer@user",
+  "name": "App Drawer",
+  "description": "A GNOME-style app drawer with groups, search, and configurable size/colors.",
+  "version": "1.2.0",
+  "max-instances": 1,
+  "cinnamon-version": ["5.0", "5.2", "5.4", "5.6", "5.8", "6.0"],
+  "settings-schema": "org.cinnamon.applets.gnome-drawer"
+}
