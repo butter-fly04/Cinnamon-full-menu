@@ -101,3 +101,16 @@
 .drawer-empty-label {
     padding: 32px;
 }
+
+/* Keyboard focus indicators */
+.app-button:focus {
+    background-color: rgba(124,106,247,0.25);
+    border-color: rgb(124,106,247);
+    box-shadow: 0 0 0 2px rgba(124,106,247,0.4);
+}
+
+.group-tab:focus {
+    background-color: rgba(124,106,247,0.20);
+    border-color: rgba(124,106,247,0.7);
+    outline: none;
+}
